@@ -1,7 +1,7 @@
 {
-	"name": "4chImgDownloader",
+	"name": "4chDownloader",
 	"version": "1.0",
-	"description": "Downloads all of the images in a thread.",
+	"description": "Downloads all of the images and webm clips in a thread.",
 	"permissions": [
 		"activeTab",
 		"tabs",
