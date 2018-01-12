@@ -1,0 +1,15 @@
+{
+	"name": "4chImgDownloader",
+	"version": "1.0",
+	"description": "Downloads all of the images in a thread.",
+	"permissions": [
+		"activeTab",
+		"tabs",
+		"<all_urls>"
+	],
+	"browser_action": {
+		"default_popup": "plugin.html",
+		"default_icon": "icon.png"
+	},
+	"manifest_version": 2
+}
